@@ -1,0 +1,4 @@
+# Pipenv file
+*.env
+Pipfile
+Pipfile.lock
